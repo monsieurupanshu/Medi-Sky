@@ -7,3 +7,6 @@
 - Drone Integration: Uses drone technology for swift emergency response.
 - Modular Codebase: Well-organized Arduino code for easy understanding and collaboration.
 - Panic Button Functionality: Includes an emergency response feature for urgent situations.
+
+# Project Flowchat
+<img width="1500" alt="Screenshot 2024-01-22 at 6 43 15 PM" src="https://github.com/monsieurupanshu/Medi-Sky/assets/43117284/73e07e0e-f789-4d55-a427-8d7205199d3b">
